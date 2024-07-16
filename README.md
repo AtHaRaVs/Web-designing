@@ -9,7 +9,9 @@
 ![03](https://github.com/user-attachments/assets/1c4eb057-6892-44c3-91c6-ffc695a11b3e)
 ![02](https://github.com/user-attachments/assets/f880c5f4-4eba-4f1f-bcc6-8a438fbb83ca)
 ![01](https://github.com/user-attachments/assets/817e7f9b-0c0b-4a70-9e38-e2230736ff7c)
-
+![01](https://github.com/user-attachments/assets/951f1af1-9604-49d6-b920-27d6852759a0)
+![03](https://github.com/user-attachments/assets/1ed68df0-1345-4d89-b599-c095a30a8ab1)
+![02](https://github.com/user-attachments/assets/efd29318-228f-4840-a85c-10c62a796dbe)
 
 
 ### 3. Getting to know TYPEFACE
