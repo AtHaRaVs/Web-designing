@@ -4,9 +4,10 @@
 
 ## Projects
 ### 4. Sampling Colours
-![Your Image](https://github.com/user-attachments/assets/533d4b8e-6527-4af4-b690-f709d9b191c2)
-![Frame 1](https://github.com/user-attachments/assets/f9046776-551b-4023-a4df-6f03f37f110a)
-![Frame 2](https://github.com/user-attachments/assets/b2ba9e6c-d2ba-4f90-a832-a1890f70884a)
+![Your Image](https://github.com/user-attachments/assets/f24ab6a0-e429-4ea2-9a08-bd3b03da161c)
+![revision 1](https://github.com/user-attachments/assets/054d93c9-d8b3-43dd-b8fa-3de71d30aa8a)
+![Frame 3 REVISION](https://github.com/user-attachments/assets/8d49f9aa-8b31-423f-a037-fa82e0d3d987)
+
 
 ### 3. Setting FONT TYPE
 ![05](https://github.com/user-attachments/assets/2c100f71-8fca-4f5e-b609-529a8de22654)
