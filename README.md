@@ -1,8 +1,13 @@
 # Web Designs by Atharav
 ![Web Designs](https://img.shields.io/badge/Web%20Designs-Atharav-blue)
 
+![Soft Crop - Color](https://github.com/user-attachments/assets/d011627f-4ad0-46e9-9a88-13b88f42bfa5)
+![Extreme Crop](https://github.com/user-attachments/assets/c784ddda-e921-4b18-b0c9-d51f1e7a7900)
+![Soft Crop - White](https://github.com/user-attachments/assets/79c7b5c5-e589-4d18-ab56-acff39a06973)
 
 ## Projects
+### 5. Photo Cropping
+
 ### 5. Image overlays
 ![Frame 1](https://github.com/user-attachments/assets/6d0b267c-99de-4a2c-a0fd-f4807cf5cdbc)
 ![Frame 3](https://github.com/user-attachments/assets/aaaa3ba8-7fc8-41d3-8b49-8e2caef2dafc)
