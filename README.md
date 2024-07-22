@@ -3,9 +3,9 @@
 
 ## Projects
 ### 5. Photo Cropping
-![Soft Crop - Color](https://github.com/user-attachments/assets/d011627f-4ad0-46e9-9a88-13b88f42bfa5)
-![Extreme Crop](https://github.com/user-attachments/assets/c784ddda-e921-4b18-b0c9-d51f1e7a7900)
-![Soft Crop - White](https://github.com/user-attachments/assets/79c7b5c5-e589-4d18-ab56-acff39a06973)
+![Soft Crop - Color](https://github.com/user-attachments/assets/24610a58-e146-49cb-980b-f5e7bf181ad0)
+![Extreme Crop](https://github.com/user-attachments/assets/372a147c-e550-42a8-80a1-cf25db3e36bf)
+![Soft Crop - White](https://github.com/user-attachments/assets/210e94a7-2b00-4875-bd90-772597b6df99)
 
 ### 5. Image overlays
 ![Frame 1](https://github.com/user-attachments/assets/6d0b267c-99de-4a2c-a0fd-f4807cf5cdbc)
