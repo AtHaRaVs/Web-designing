@@ -2,6 +2,12 @@
 ![Web Designs](https://img.shields.io/badge/Web%20Designs-Atharav-blue)
 
 ## Projects
+### 5. Picturing Choosing
+![Officeriders](https://github.com/user-attachments/assets/cedd8112-b622-451d-b910-ed577eab3b7d)
+![Mat Rebel Yoga](https://github.com/user-attachments/assets/4683ed58-9f03-4d72-af8f-f0b550cfabbb)
+![Onerent](https://github.com/user-attachments/assets/bc16b00c-79d1-424f-881f-ce8d85f3d34e)
+
+
 ### 5. Photo Cropping
 ![Soft Crop - Color](https://github.com/user-attachments/assets/24610a58-e146-49cb-980b-f5e7bf181ad0)
 ![Extreme Crop](https://github.com/user-attachments/assets/372a147c-e550-42a8-80a1-cf25db3e36bf)
