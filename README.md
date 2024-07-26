@@ -11,7 +11,8 @@
 ### 5. Photo Cropping
 ![Soft Crop - Color](https://github.com/user-attachments/assets/24610a58-e146-49cb-980b-f5e7bf181ad0)
 ![Extreme Crop](https://github.com/user-attachments/assets/372a147c-e550-42a8-80a1-cf25db3e36bf)
-![Soft Crop - White](https://github.com/user-attachments/assets/210e94a7-2b00-4875-bd90-772597b6df99)
+![Soft Crop - White](https://github.com/user-attachments/assets/90254f7e-273a-4aeb-81ff-93ad52638e1c)
+
 
 ### 5. Image overlays
 ![Frame 1](https://github.com/user-attachments/assets/6d0b267c-99de-4a2c-a0fd-f4807cf5cdbc)
