@@ -3,8 +3,10 @@
 
 ## Projects
 
- 5. Homepage Designing
-###![figma home page](https://github.com/user-attachments/assets/70fdd94c-2eb9-4377-a065-2164016b4acb)
+###5. Homepage Designing
+![figma home page](https://github.com/user-attachments/assets/70fdd94c-2eb9-4377-a065-2164016b4acb)
+
+
 ### 5. Picturing Choosing
 ![Officeriders](https://github.com/user-attachments/assets/cedd8112-b622-451d-b910-ed577eab3b7d)
 ![Mat Rebel Yoga](https://github.com/user-attachments/assets/4683ed58-9f03-4d72-af8f-f0b550cfabbb)
