@@ -3,7 +3,7 @@
 
 ## Projects
 
-### 6. Homepage Desigining
+### 6. Homepage Designing
 ![figma home page](https://github.com/user-attachments/assets/70fdd94c-2eb9-4377-a065-2164016b4acb)
 
 
